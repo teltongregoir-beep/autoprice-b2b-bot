@@ -31,17 +31,17 @@ AutoPrice B2B Aggregator is a professional Telegram bot designed for real-time p
 
 3. **Configure Environment Variables:**
 * Create a .env file in the root directory and add your credentials:
-```bash
-BOT_TOKEN=
-ALLOWED_USERS=
-INSIDE_EMAIL=
-INSIDE_PASSWORD=
-FORMA_LOGIN=
-FORMA_PASSWORD=
-FOURCARS_LOGIN=
-FOURCARS_PASSWORD=
-AUTONOVAD_LOGIN=
-AUTONOVAD_PASSWORD=
+   ```bash
+   BOT_TOKEN=
+   ALLOWED_USERS=
+   INSIDE_EMAIL=
+   INSIDE_PASSWORD=
+   FORMA_LOGIN=
+   FORMA_PASSWORD=
+   FOURCARS_LOGIN=
+   FOURCARS_PASSWORD=
+   AUTONOVAD_LOGIN=
+   AUTONOVAD_PASSWORD=
    ```
 
 4. **Run the bot:**
